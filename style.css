@@ -19,6 +19,7 @@ header {
     padding-top: 30px;
     min-height: 70px;
     border-bottom: #bbb 1px solid;
+    padding-left: 10%;
 }
 
 header h1 {
